@@ -1,0 +1,3 @@
+[dpmi]
+name = "DPMI"
+desc = "DOS Protected Mode Interface"
