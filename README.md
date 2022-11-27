@@ -1,3 +1,7 @@
-# freedos.cr
+# cryptic_dos dictionary
 
-Abbreviations in FreeDOS
+[![cryptic_dos](https://github.com/cryptic-resolver/cryptic_dos/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_dos/actions/workflows/test.yml)
+
+DOS things explained using [cr: the Cryptic Resolver](https://github.com/cryptic-resolver/cr.rb). Please refer to its README to see the dictionary's layout and format.
+
+<br>
