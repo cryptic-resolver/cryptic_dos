@@ -1,3 +1,8 @@
 [dpmi]
 name = "DPMI"
 desc = "DOS Protected Mode Interface"
+
+[djgpp]
+name = "DJGPP"
+desc = "DJ's GNU Programming Platform"
+more = "A software development suite for Intel 80386-level and above, IBM PC compatibles which supports DOS operating systems. It is guided by DJ Delorie, who began the project in 1989. It is a port of the GCC, and mostly GNU utilities such as Bash, find, tar, ls, GAWK, sed, and ld to DOS Protected Mode Interface (DPMI). Supported languages include C, C++, Objective-C/C++, Ada, Fortran, and Pascal."

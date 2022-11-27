@@ -1,3 +1,11 @@
 [fdimples]
 name = "FDIMPLES"
 desc = "FreeDOS Installer - My Package List Editor Software"
+
+[fc]
+name = "fc"
+desc = "File Compare"
+
+[fdisk]
+name = "fdisk"
+desc = "Fixed disk tool - create partitions"
