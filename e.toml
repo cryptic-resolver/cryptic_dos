@@ -1,4 +1,7 @@
 [ems]
 name = "EMS"
 desc = "Expanded Memory Specification"
-more = ""
+
+[emm]
+name = "EMM386"
+desc = "Expanded Memory Manager"

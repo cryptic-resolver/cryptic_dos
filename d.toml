@@ -1,6 +1,7 @@
 [dpmi]
 name = "DPMI"
 desc = "DOS Protected Mode Interface"
+more = "A specification introduced in 1989 which allows a DOS program to run in protected mode, giving access to many features of the new PC processors of the time not available in real mode. It was initially developed by Microsoft for Windows 3.0"
 
 [djgpp]
 name = "DJGPP"
